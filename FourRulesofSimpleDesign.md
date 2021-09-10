@@ -11,8 +11,7 @@ These rules outline some fundamental concepts around software design, presented 
 
 **Rule #3  No Duplication**
 
-    * every piece of knowledge should
-have one and only one representation
+    * every piece of knowledge should have one and only one representation
 
 **Rule #4  Small**
 
